@@ -1,5 +1,5 @@
 import React from "react";
-
+// props with destructuring
 function Container({
   header,
   children,
